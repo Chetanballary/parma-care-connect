@@ -101,7 +101,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="border-t border-border bg-background py-8">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
-          © 2026 MedCare. All rights reserved. Your trusted healthcare management platform.
+          © 2026 ParmaConnect. All rights reserved. Your trusted healthcare management platform.
         </div>
       </footer>
     </div>
