@@ -28,7 +28,7 @@ const Header = () => {
     <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur-md">
       <div className="container mx-auto flex items-center justify-between px-4 py-3">
         <Link to="/" className="flex items-center gap-2">
-          <span className="text-xl font-bold text-foreground">ParmaConnect</span>
+          <span className="text-xl font-bold text-foreground">MedCare</span>
         </Link>
 
         <nav className="hidden items-center gap-6 md:flex">
